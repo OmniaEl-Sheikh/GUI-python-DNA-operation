@@ -1,1 +1,6 @@
-# GUI-python-DNA-operation
+# GUI-python-DNA-operation![Capture](https://user-images.githubusercontent.com/92062597/210852976-d268420a-e68f-4fb3-976a-39e3c82f208f.JPG)
+![Capture1](https://user-images.githubusercontent.com/92062597/210852993-275a3ade-eaba-4c90-826b-8bce454dcfda.JPG)
+![Capture2](https://user-images.githubusercontent.com/92062597/210852994-7d16d512-c21c-431b-a0ce-a8451841478e.JPG)
+![Capture3](https://user-images.githubusercontent.com/92062597/210852996-d4c6456c-c991-40eb-9687-e4b8eaecad69.JPG)
+![Capture4](https://user-images.githubusercontent.com/92062597/210853002-dc2a7d4a-2071-4838-9536-b983c4767ab8.JPG)
+![Capture5](https://user-images.githubusercontent.com/92062597/210853006-76637d9a-a650-4a19-b135-9f152d6039a4.JPG)
